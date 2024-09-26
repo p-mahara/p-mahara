@@ -2,15 +2,15 @@
 
 
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm RAFIK SHAH</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm Prakash Mahara</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Electronics+and+Computer+Science;Embedded+System+Developer;" alt="Typing SVG" />
 
 </p>
 
 <p align="center">
-  Technical Trainer | Coder | Tech Enthusiast
+  Embedded Developer | IoT Enthusiast
 </p>
 
 <div align="center">
@@ -198,7 +198,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <h3>
     <a href="https://discord.gg/YdDyV6QqEN">
       Join Our Discord Community
-    </a>
+    </a>https://github.com/p-mahara
   </h3>-->
 
 </div>
@@ -223,8 +223,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </td>
   </tr>
 </table>
---> 
-
+--> https://github.com/p-mahara
+<!--
 
 <h3 align="center">YouTube Stats</h3>
 
@@ -576,7 +576,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </tr>
   </tbody>
 </table>
-</div>
+</div> 
+
 
 
 <!-- 
@@ -648,7 +649,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h3>
 <div align="center">
   
-⭐️ From [RAFIKSHA](https://github.com/RAFIKSHA) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [RAFIKSHA](https://github.com/p-mahara) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
